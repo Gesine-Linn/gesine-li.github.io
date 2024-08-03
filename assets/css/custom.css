@@ -1,0 +1,32 @@
+.tiles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.tile {
+  position: relative;
+  width: calc(50% - 20px);
+  padding-bottom: 25%;
+  background-size: cover;
+  background-position: center;
+  text-decoration: none;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.tile-title {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.tile:hover .tile-title {
+  background: rgba(0, 0, 0, 0.7);
+}
