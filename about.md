@@ -12,10 +12,10 @@ Welcome to my GitHub page! I am a passionate IT professional and a current Maste
 **Master Student at University of Essex**  
 *Studying Enterprise IT Management*
 
-**Semester Abroad at James Cook University Singapore**
+**Semester Abroad at James Cook University Singapore** 
 *Completing my HSK2 certificate & Studying International Business*
 
-**Bachelor of Arts at Fachochschule der Wirtschaft**
+**Bachelor of Arts at Fachochschule der Wirtschaft** 
 *International Business*
 
 
