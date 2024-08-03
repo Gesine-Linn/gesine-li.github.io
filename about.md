@@ -34,7 +34,7 @@ Welcome to my GitHub page! I am a passionate IT professional and a current Maste
 *Exploring new places and cultures is my passion.*
 
 **Dressage**  
-*I am passionate about dressage, the art of riding and training a horse in a manner that develops obedience, flexibility, and balance.*
+*I am passionate about dressage, the art of riding and training young horse to keep them happy and healthy.*
 
 ## Aspirations
 
