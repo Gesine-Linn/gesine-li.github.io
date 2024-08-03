@@ -3,8 +3,6 @@ layout: about
 title: About
 ---
 
-# About Me
-
 ## Introduction
 
 Welcome to my GitHub page! I am a passionate IT professional and a current Master Student at the University of Essex. Here you can find more about my background, interests, and the projects I am working on.
